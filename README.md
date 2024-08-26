@@ -14,4 +14,6 @@
 
 ### Required Dependencies
 - Python3
+- jupyter
+- jupyter-nbconvert
 - Luatex
